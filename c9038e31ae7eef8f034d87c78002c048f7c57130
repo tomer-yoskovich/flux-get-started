@@ -1,0 +1,1 @@
+{"jobID":"861eff5f-56fd-2199-f691-9a59f2d9ffc0","spec":{"type":"policy","cause":{"Message":"","User":"tomerika@mesuvag.com"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
